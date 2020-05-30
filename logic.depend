@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1590844078 source:c:\users\79194\desktop\ \Коллегия\Инфа\logic\logic\logic_source.cpp
+	"logic_header.h"
+
+1590511649 c:\users\79194\desktop\ \Коллегия\Инфа\logic\logic\logic_header.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<iomanip>
+
+1590842786 source:c:\users\79194\desktop\ \Коллегия\Инфа\logic\logic\main.cpp
+	"logic_header.h"
+
